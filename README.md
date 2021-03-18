@@ -1,5 +1,5 @@
 # Lions
-Public Ledger
+Lions Ledger
 
 The Roar network is a smart contract platform with an API and distributed ledger. Users in the network transact using Lions. Roar_0 is the current version for smart contracts. To update the ledger make a pull request.
 
